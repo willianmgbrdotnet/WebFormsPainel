@@ -74,7 +74,7 @@
                                 <td class="auto-style8">Gênero:</td>
                                 <td>
                                     <asp:DropDownList ID="ddlGenero" runat="server" Width="405px" CssClass="auto-style12">
-                                        <asp:ListItem>-- Escolha seu Gênero --</asp:ListItem>
+                                        <asp:ListItem Value="9">-- Escolha seu Gênero --</asp:ListItem>
                                         <asp:ListItem Value="1">Masculino</asp:ListItem>
                                         <asp:ListItem Value="0">Feminino</asp:ListItem>
                                         <asp:ListItem Value="2">Prefiro Não Responder</asp:ListItem>
@@ -91,6 +91,7 @@
                                 <td class="auto-style7">&nbsp;</td>
                                 <td>
                                     <asp:Button ID="btnPnl2Proximo" runat="server" Text="Próximo" Width="85px" OnClick="btnPnl2Proximo_Click" />
+                                    <asp:Label ID="lblPnl2Erro" runat="server"></asp:Label>
                                 </td>
                             </tr>
                         </table>
@@ -128,6 +129,7 @@
                                 <td class="auto-style7">&nbsp;</td>
                                 <td>
                                     <asp:Button ID="btnPnl3Proximo" runat="server" Text="Próximo" Width="85px" OnClick="btnPnl3Proximo_Click" />
+                                    <asp:Label ID="lblPnl3ErroCep" runat="server"></asp:Label>
                                 </td>
                             </tr>
                         </table>
