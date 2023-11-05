@@ -42,6 +42,51 @@ namespace WebFormsPainel
         protected global::System.Web.UI.WebControls.Panel Panel2;
 
         /// <summary>
+        /// txtNome control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtNome;
+
+        /// <summary>
+        /// txtSobrenome control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtSobrenome;
+
+        /// <summary>
+        /// ddlGenero control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList ddlGenero;
+
+        /// <summary>
+        /// txtCelular control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtCelular;
+
+        /// <summary>
+        /// btnPnl2Proximo control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnPnl2Proximo;
+
+        /// <summary>
         /// Panel3 control.
         /// </summary>
         /// <remarks>
@@ -51,6 +96,51 @@ namespace WebFormsPainel
         protected global::System.Web.UI.WebControls.Panel Panel3;
 
         /// <summary>
+        /// txtEndereco control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtEndereco;
+
+        /// <summary>
+        /// txtCidade control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtCidade;
+
+        /// <summary>
+        /// txtCep control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtCep;
+
+        /// <summary>
+        /// btnPnl3Voltar control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnPnl3Voltar;
+
+        /// <summary>
+        /// btnPnl3Proximo control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnPnl3Proximo;
+
+        /// <summary>
         /// Panel4 control.
         /// </summary>
         /// <remarks>
@@ -58,5 +148,50 @@ namespace WebFormsPainel
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Panel Panel4;
+
+        /// <summary>
+        /// txtUsuario control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtUsuario;
+
+        /// <summary>
+        /// txtSenha control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtSenha;
+
+        /// <summary>
+        /// btnPnl4Voltar control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnPnl4Voltar;
+
+        /// <summary>
+        /// btnPnl4Enviar control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnPnl4Enviar;
+
+        /// <summary>
+        /// lblEnviar control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblEnviar;
     }
 }
